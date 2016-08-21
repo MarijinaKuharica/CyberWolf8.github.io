@@ -10,8 +10,8 @@ title: BlueVirus
 email: bluevirus333@gmail.com
 description: > 
   Best hacking website.
-baseurl: "/hack" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "Faceebok" # the subpath of your site, e.g. /blog
+url: "https://www.facebook.com/NevenLukic30" # the base hostname & protocol for your site
 
-# Build settings
-markdown: kramdown
+
+

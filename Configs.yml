@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -12,8 +12,6 @@ description: >
   Best hacking website.
 baseurl: "/hack" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown

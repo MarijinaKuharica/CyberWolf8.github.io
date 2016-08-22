@@ -42,5 +42,7 @@ p {
 .border {
 border: solid 2px;
 border-color: black;
+margin-right: 550px;
+margin-left: 550px;
 }
 

@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background-image: url("http://i.imgur.com/BDMmOHG.jpg");
+	background-image: url("https://pixabay.com/static/uploads/photo/2016/08/12/21/55/industry-1589803_960_720.jpg");
   background-size: cover ;
      background-position: center center;
      background-repeat: no-repeat;
@@ -15,7 +15,7 @@ body {
 	font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', serif;
   text-align: center;
-  background-color: green;
+  background-color: DeepSkyBlue;
   color: black;
 }
 
@@ -34,8 +34,9 @@ h2 {
 
 
 p {
-  font-size: 2rem;
+  font-size: 3rem;
   margin-top: -20px;
+color:rgb(0,25,255);
 }
 
 .hero a {
@@ -51,6 +52,7 @@ margin-right: 520px;
 margin-left: 520px;
 text-align: center;
 margin-top: -45px;
+background-color: transparent: 50%;
 }
 .sidebar {
 	height: 40px;
@@ -71,6 +73,8 @@ height: 60px;
 	border: 0px solid black;
 	margin-bottom: -22px;
 	margin: 20px;
+
+
 }
 .Facebook {
 background-image: url(http://i.imgur.com/ieB2v8s.png?1);
